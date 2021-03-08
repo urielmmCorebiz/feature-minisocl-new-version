@@ -92,7 +92,8 @@
     "children": ["slider-layout#shelf-02"],
     "props": {
       "orderBy": "OrderByTopSaleDESC",
-      "category": "4"
+      "category": "4",
+      "hideUnavailableItems": true
     }
   },
   "slider-layout#shelf-02": {
@@ -124,7 +125,8 @@
     "children": ["slider-layout#shelf-03"],
     "props": {
       "orderBy": "OrderByTopSaleDESC",
-      "category": "5"
+      "category": "5",
+      "hideUnavailableItems": true
     }
   },
   "slider-layout#shelf-03": {
@@ -156,7 +158,8 @@
     "children": ["slider-layout#shelf-04"],
     "props": {
       "orderBy": "OrderByTopSaleDESC",
-      "category": "8"
+      "category": "8",
+      "hideUnavailableItems": true
     }
   },
   "slider-layout#shelf-04": {
@@ -188,7 +191,8 @@
     "children": ["slider-layout#shelf-05"],
     "props": {
       "orderBy": "OrderByTopSaleDESC",
-      "category": "8"
+      "category": "8",
+      "hideUnavailableItems": true
     }
   },
   "slider-layout#shelf-05": {
